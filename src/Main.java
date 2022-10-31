@@ -31,7 +31,7 @@ public class Main {
                 result = x / y;
                 System.out.println(result);
             } else {
-                System.out.println("Invalid Operation");
+                System.out.println("Invalid Operation. Try again.");
             }
         }
     }
